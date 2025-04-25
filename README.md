@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">✧˖°. 17 years old |  Student of Analysis and Systems Development | Enthusiast of Fashion and Music ✧˖°. </p>
+<p align="center">✧˖°. 17 years old |  Student of Analysis and Systems Development | Fashion and Music Enthusiast ✧˖°. </p>
 
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
