@@ -1,10 +1,9 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="the_world_is_yours (2).gif"
-      alt="The World Is Yours . . ."
-    />
-  </a>
+  <img
+    src="the_world_is_yours.gif"
+    alt="The World Is Yours..."
+    style="max-width: 100%; height: auto;"
+  />
 </div>
 
 <img align="center" alt="" src="./src/header-gif.gif">
