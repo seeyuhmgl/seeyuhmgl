@@ -11,7 +11,7 @@
 
 #
 
-<p align="center">✧˖°. 17 years old |  Student of Analysis and Systems Development | Fashion and Music Enthusiast ✧˖°. </p>
+<p align="center">✧˖°. 17 years old |  Currently studying Computer Systems Analysis and Development | Musician and Fashion Enthusiast ✧˖°. </p>
 
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
