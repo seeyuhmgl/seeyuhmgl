@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">17 years old |  Student of Analysis and Systems Development | Enthusiast of Fashion and Music </p>
+<p align="center">✧˖°. 17 years old |  Student of Analysis and Systems Development | Enthusiast of Fashion and Music ✧˖°. </p>
 
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
@@ -17,15 +17,15 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:spfcmgl@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/miguel-oliveira-987517359/)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=fffff&color:FFF)](https://www.instagram.com/mglseeghosts/)
-
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FFFFFF&color:FFF)](https://www.instagram.com/mglseeghosts/)
+[![Discord](https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=FFFFFF&color:FFF)](https://discord.com/users/561606730237214746)
 
 
 
 #
 
 <div style="text-align: center;" align="center">
-  <h3 style="color: white;">* GitHub Stats *</h3>
+  <h3 style="color: white;">⭒ GitHub Stats ⭒</h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=seeyuhmgl&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_radius=3&border_color=FFFFFF&icon_color=FFFFFF&theme=jolly" alt="GitHub stats">
 
