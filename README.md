@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=500&color=FFFFFF&center=true&vCenter=true&random=false&width=524&lines=The+World+Is+Yours+.+.+.+"
+      src="the_world_is_yours (2).gif"
       alt="The World Is Yours . . ."
     />
   </a>
@@ -11,10 +11,12 @@
 
 #
 
-<p align="center">✧˖°. 17 years old |  Currently studying Computer Systems Analysis and Development | Musician and Fashion Enthusiast ✧˖°. </p>
+<p align="center">✧˖°. 17 years old |  Currently studying Computer Systems Analysis and Development | Aspiring Musician and Fashion Enthusiast ✧˖°. </p>
 
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
+
+
 
 <h3 align="left">Contact me!</h3>
 
